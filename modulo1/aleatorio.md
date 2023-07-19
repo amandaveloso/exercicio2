@@ -4,4 +4,4 @@
 # configuracao git
 
 ### comandos
-# alo alo teste **ooooo**
+# alo alo teste **oooeeoo**
