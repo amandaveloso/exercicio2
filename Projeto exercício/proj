@@ -7,3 +7,15 @@
             <h1>Aqui vai um título legal & bonito</h1>
         </body>
     </html>
+
+    <!DOCTYPE html>
+    <html lang="pt-br">
+        <head>
+        <title>Fanpage de Gatinhos</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Perfil #catsoninstagram</h1>
+        <img src="cara-de-gato-desenhada-a-mao-com-lingua-de-pau-cabeca-de-gatinho-de-desenho-vetorial_333145-333.avif" />
+        </body>
+    </html>
